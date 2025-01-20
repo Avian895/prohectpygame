@@ -1,1 +1,1 @@
-# prohectpygame
+# PyGame_Projekt_Yandex (24/25)
