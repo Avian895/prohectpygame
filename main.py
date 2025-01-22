@@ -2,7 +2,7 @@ import pygame
 import pygame_gui
 import sys
 import math
-#chek_push
+
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("игра")
